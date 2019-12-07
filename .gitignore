@@ -1,0 +1,11 @@
+# Editor
+client/.vscode
+server/.vscode
+# Javascript Front End
+client/node_modules/
+client/config.json
+
+# Python Back End
+server/env
+server/__pycache__
+server/config.json

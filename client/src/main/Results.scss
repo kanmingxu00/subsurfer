@@ -1,0 +1,22 @@
+.DropDownStyle {
+  text-align: center;
+  font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace; 
+  font-size: 18px; 
+  color: rgb(0, 74, 104);
+  -o-text-overflow: clip;
+  text-overflow: clip;
+  min-width: 700px;
+  max-width: 700px;
+  width: 700px;
+  background-color: whitesmoke;
+  border-radius: 1em;
+  -webkit-border-radius: 1em;
+  padding-left: 1em;
+  padding-right: 1em;
+  max-height: 500px;
+  overflow-y: scroll;
+}
+
+.Table {
+  border: 10px solid whitesmoke;
+}
